@@ -3,7 +3,9 @@
 Implement MMD models using Babylon.js and babylon-mmd as a hobby project.
 (Not finished)
 
-### https://phoshco.github.io/model-viewer/
+### https://fuhayho.github.io/model-viewer-demo/docs/
+
+Don's ask me why need /docs. Ask github. They really slow.
 
 ## Build Settings
 
